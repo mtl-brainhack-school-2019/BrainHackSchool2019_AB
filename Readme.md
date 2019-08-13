@@ -19,10 +19,7 @@ Music Imagery Information Retrieval: 10 subjects, 64 EEG Channels for a music im
 
 ### Processing/Feature extraction
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- []
 - [ ]
 
 What things you need to install the software and how to install them
