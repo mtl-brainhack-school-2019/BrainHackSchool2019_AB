@@ -38,23 +38,22 @@ These scripts/notebooks should be reusable for the data I will be collecting in 
 - [ ] Beat per minute (BPM) for each song
 
 
-- [ ] 
-
 
 
 ## Analyses
 
 - [ ] Compare perceived vs. imagined conditions for each frequency band
-- [ ] Compare topomap regions within conditions across participants
-- [ ] Compare SS-EP fo binary vs. ternary songs within conditions across participants
-
+- [ ] Compare PSD topomap regions within conditions across participants
+- [ ] Compare complexity measures topomap regions within conditions across participants
+- [ ] Compare complexity measures within conditions across participants with complexity measures of stimuli
+- [ ] Compare SS-EP for binary vs. ternary songs within conditions across participants
 - [ ] 
 
 ## Deliverables
 
 Commented Jupyter Notebook..
 - [ ] For preprocessing and epoching of data
-- [ ] For computation of complexity measures and related topomaps
+- [ ] For computation of complexity measures, PSD and related topomaps
 - [ ] 
 
 
