@@ -15,13 +15,28 @@ Music Imagery Information Retrieval: 10 subjects, 64 EEG Channels for a music im
 - [x] Visualize raw signal
 - [x] Independant Component Analysis (ICA)
 - [x] Artifact rejection using ICA
+- [x] Epoching (channel x condition x trial)
 
 
-### Processing/Feature extraction
+## Processing/Feature extraction
+### 
+- [ ] Compute Power Spectral Density (PSD) averaged by condition
+- [ ] Steady-state-evoked-potential (SS-EP) for each song averaged across subject
 
-- [  ]
+- [ ] Hurst exponent averaged by condition for each channel
+- [ ] 
+- [ ] Beat per minute (BPM) for each song
+- [ ] Fundamental frequency for each song
 
-What things you need to install the software and how to install them
+## Analyses
+
+- [ ] Compare perceived vs. imagined conditions for each frequency band
+- [ ] 
+- [ ] 
+
+- [ ] 
+
+
 
 ```
 Give examples
