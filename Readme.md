@@ -29,18 +29,20 @@ These scripts/notebooks should be reusable for the data I will be collecting in 
 ## Processing/Feature extraction
 ### 
 - [ ] Compute Power Spectral Density (PSD) averaged by condition
-- [ ] Steady-state-evoked-potential (SS-EP) for each song averaged across subject
 
-- [ ] Hurst exponent averaged by condition for each channel
-- [ ] 
+- [ ] Steady-state-evoked-potential (SS-EP) for each song averaged across subject
 - [ ] Beat per minute (BPM) for each song
-- [ ] Fundamental frequency for each song
+
+- [ ] Complexity measures averaged by condition for each channel
+- [ ] 
+
+
 
 ## Analyses
 
 - [ ] Compare perceived vs. imagined conditions for each frequency band
-- [ ] 
-- [ ] 
+- [ ] Compare topomap regions within conditions across participants
+- [ ] Compare SS-EP fo binary vs. ternary songs within conditions across participants
 
 - [ ] 
 
