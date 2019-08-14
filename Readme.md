@@ -33,7 +33,7 @@ These scripts/notebooks should be reusable for the data I will be collecting in 
 
 - [ ] Steady-state-evoked-potential (SS-EP) for each song averaged across subject
 
-![SS-EP from Nozaradan (2011)](link-to-image)
+![SS-EP from Nozaradan (2011)](https://github.com/mtl-brainhack-school-2019/BrainHackSchool2019_AB/blob/master/nozaradan_2011.png)
 
 - [ ] Beat per minute (BPM) for each song
 
