@@ -37,7 +37,7 @@ This project uses open-source EEG data collected on a Music Perception and Image
  
 - [x] Compute Power Spectral Density (PSD) averaged by condition
 - [ ] Complexity measures by channel/song/condition/participant
-
+- [ ] Topomaps of complexity measures
 - [ ] Steady-state-evoked-potential (SS-EP) for each song averaged across subject
 
 ![SS-EP from Nozaradan (2011)](https://github.com/mtl-brainhack-school-2019/BrainHackSchool2019_AB/blob/master/nozaradan_2011.png)
