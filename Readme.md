@@ -1,20 +1,27 @@
 
 # EEG preprocessing/processing using MNE-Python
 
-This project uses open-source EEG data collected on a Music Perception and Imagery task.
-
-Music Imagery Information Retrieval: 10 subjects, 64 EEG Channels for a music imagery task of 12 different pieces w/ different meter, length and tempo
-
-* [Dropwizard](https://github.com/sstober/openmiir) - Github
-* [Dropwizard](https://pdfs.semanticscholar.org/cde4/b1ec89f2c05a41f1143792a890a00e89541a.pdf) - Article
-
 ## Background
 
 I am a PhD student at Concordia University enroll in an Individualized program (intersection of cognitive neurosciences and digital arts/electroacoustics)
 My main PhD focus is on electrophysiological correlates of creativity and pareidolia, as well as how to use this knowledge in Brain-Computer Interfaces (BCI)
 
+But...still waiting for my EEG data!
+
+Instead...
+Music Imagery Information Retrieval: 10 subjects, 64 EEG Channels for a music imagery task of 12 different pieces w/ different meter, length and tempo
+
+* (https://github.com/sstober/openmiir) - Github
+* (https://pdfs.semanticscholar.org/cde4/b1ec89f2c05a41f1143792a890a00e89541a.pdf) - Article
+
 I chose to work with these data so it provides me with a first hands-on experience with EEG data.
-These scripts/notebooks should be reusable for the data I will be collecting in the next few months (hopefully).
+The produced scripts/notebooks should be reusable for the data I will be collecting in the next few months (hopefully)
+and for anybody interested in using MNE-Python and complexity measures on electrophysiological data.
+This project uses open-source EEG data collected on a Music Perception and Imagery task.
+
+
+
+
 
 ## Preprocessing
 
