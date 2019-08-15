@@ -60,7 +60,7 @@ This project uses open-source EEG data collected on a Music Perception and Image
 Commented Jupyter Notebook..
 - [ ] For preprocessing and epoching of data
 - [ ] For computation of complexity measures, PSD and related topomaps
-- [ ] 
+- [ ] Draft of a paper if any promising results!
 
 
 ```
