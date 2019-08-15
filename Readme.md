@@ -62,6 +62,9 @@ Commented Jupyter Notebook..
 - [ ] For computation of complexity measures, PSD and related topomaps
 - [ ] Draft of a paper if any promising results!
 
+- [ ] Requirements.txt
+- [ ] Wrap-up on Binder
+
 
 ```
 
