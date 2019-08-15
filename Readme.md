@@ -34,9 +34,9 @@ This project uses open-source EEG data collected on a Music Perception and Image
 
 
 ## Processing/Feature extraction
-### 
-- [ ] Compute Power Spectral Density (PSD) averaged by condition
-- [ ] Complexity measures averaged by condition for each channel
+ 
+- [x] Compute Power Spectral Density (PSD) averaged by condition
+- [ ] Complexity measures by channel/song/condition/participant
 
 - [ ] Steady-state-evoked-potential (SS-EP) for each song averaged across subject
 
@@ -45,15 +45,14 @@ This project uses open-source EEG data collected on a Music Perception and Image
 - [ ] Beat per minute (BPM) for each song
 
 
-
-
 ## Analyses
 
 - [ ] Compare perceived vs. imagined conditions for each frequency band
-- [ ] Compare PSD topomap regions within conditions across participants
-- [ ] Compare complexity measures topomap regions within conditions across participants
-- [ ] Compare complexity measures within conditions across participants with complexity measures of stimuli
-- [ ] Compare SS-EP for binary vs. ternary songs within conditions across participants
+- [ ] Compare PSD topomap between clustered regions
+- [ ] Compare complexity measures topomap between clustered regions 
+- [ ] Compare complexity measures for each conditions with complexity measures of stimuli 
+      (e.g. correlations of stimuli fractality with brain signal fractality)
+- [ ] Compare SS-EP for binary vs. ternary songs for each conditions
 - [ ] 
 
 ## Deliverables
@@ -65,5 +64,5 @@ Commented Jupyter Notebook..
 
 
 ```
-Give examples
+
 ```
